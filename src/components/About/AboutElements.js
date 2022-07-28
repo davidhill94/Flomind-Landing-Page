@@ -11,5 +11,5 @@ font-family: 'Roboto Mono', monospace;
 
 export const AboutHeader = styled.h1`
 font-size: 3rem;
-color: #5ca386;
+color: var(--primary);
 `
