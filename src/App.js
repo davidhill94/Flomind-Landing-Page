@@ -20,6 +20,7 @@ function App() {
   return (
     <div className="App">
       <BrowserRouter>
+      <Video />
       <Navbar toggle={toggle}/>
       <Sidebar toggle={toggle} isOpen={isOpen} />
       <Routes>

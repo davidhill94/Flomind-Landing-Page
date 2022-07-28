@@ -1,10 +1,10 @@
-/*import React from 'react';
+import React from 'react';
 import {
     VideoWrapper,
     BackgroundVideo,
     VideoSrc
 } from './VideoElements.js';
-import video from '../../videos/video4.mp4';
+import video from '../../videos/video2.mp4';
 
 const Video = () => {
     return (
@@ -16,4 +16,4 @@ const Video = () => {
     )
 }
 
-export default Video*/
+export default Video

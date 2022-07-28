@@ -8,6 +8,7 @@ align-items: center;
 justify-content: center;
 font-family: 'Roboto Mono', monospace;
 position: relative;
+background-color: #000;
 `
 
 export const BackgroundTextHigher = styled.img`
